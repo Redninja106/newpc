@@ -21,6 +21,7 @@ Things to install on a new windows installation. (my personal preferences)
 |[7zip](https://www.7-zip.org/)| The best zipping/unzipping tool.|
 |[Optimizer](https://github.com/hellzerg/optimizer)|*(it optimizes)*|
 |[PowerToys](https://github.com/microsoft/PowerToys)| minor usefuls features.|
+|[VLC Media Player](https://www.videolan.org/vlc/)| The only good media player on windows.|
 
 ## Development
 
