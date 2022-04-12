@@ -28,7 +28,7 @@ Things to install on a new windows installation. (my personal preferences)
 | App | Description |
 |-----|-------------|
 |[Visual Studio 2022](https://visualstudio.microsoft.com/)| for development. |
-|[Terminal]|(https://aka.ms/terminal)| The best terminal for windows. |
+|[Terminal](https://aka.ms/terminal)| The best terminal for windows. |
 |[DevToys (Microsoft Store)](https://www.microsoft.com/store/apps/9PGCV4V3BK4W)|A bunch of useful utilities.|
 
 ## Gaming
