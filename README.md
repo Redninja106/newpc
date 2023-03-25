@@ -1,7 +1,5 @@
 # NewPC:
-
-> "For when windows is installation. of new, that is."
-> 
+ 
 Things to install on a new windows installation. (my personal preferences)
 
 # The stuff:
